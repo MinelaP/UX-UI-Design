@@ -9,8 +9,7 @@ Welcome! This repository showcases my professional and academic design journey. 
 * **Scope:** Modernizing a legacy interface to meet current usability standards across Web and Mobile platforms.
 * **Key Deliverables:** Updated UI components, improved navigation flows, and a responsive design system.
 * **Impact:** Focused on clarity, data hierarchy, and reducing cognitive load for the end-user.
-👉 [https://www.figma.com/design/KLe2mGfLt213HZrQ1g1Xod/CIS-SISTEM-Mobile?node-id=0-1&p=f&t=KmTdZYFa4j1nSxoY-0]
-[https://www.figma.com/design/K4q1ZryDTBoVZTPKesATvk/CIS-SISTEM-DESKTOP?node-id=0-1&p=f&t=1tla97kbWPd9Sdxg-0]
+👉 [https://www.figma.com/team_invite/redeem/sLZZWxUjsuEhxZtm8QVg0C?t=auBKvbnsMOb7VfEn-21]
 
 ---
 
@@ -19,7 +18,7 @@ Welcome! This repository showcases my professional and academic design journey. 
 * **Process:** Handled the entire lifecycle from gathering client requirements to creating high-fidelity interactive prototypes.
 * **Deliverables:** Detailed UI Design.
 * **Technical Note:** Designed with development feasibility in mind for desktop environments.
-👉 [https://www.figma.com/design/rxl9O7ZLGxJElpyXOi9BJE/HN?node-id=0-1&p=f&t=p4JqfIrKoPj4xK48-0]
+👉 [https://www.figma.com/design/rxl9O7ZLGxJElpyXOi9BJE/HN?node-id=0-1&t=l26aIhdNGu1PJ4dd-1]
 
 ---
 
@@ -28,14 +27,14 @@ A robust design solution for a major oil company, covering all user touchpoints.
 * **Mobile App:** Customer-facing loyalty application.
 * **Desktop Admin Panel:** Specialized interface for administrative tasks and user management.
 * **POS Module:** Dedicated UI for creating and managing membership cards.
-👉 [https://www.figma.com/design/Wa4Vue24pPy1vaucRo4ARt/Hifa-Petrol?node-id=5-2368&p=f&t=KP05eollBPzghWTh-0]
+👉 [(https://www.figma.com/design/Wa4Vue24pPy1vaucRo4ARt/Hifa-Petrol?node-id=5-2368&t=U2hrxlyf1nfFOPtA-1)]
 
 ---
 
 ## 🚌 Centrotours - Web Concept
 Conceptual redesign focusing on travel and transport services.
 * **Focus:** Crafting clean, responsive web layouts and improving the user experience.
-👉 [https://www.figma.com/design/sf6IguHrHwtfXdTnhKM26I/Untitled?node-id=0-1&p=f&t=E3SJxbcT7qYTZoYG-0]
+👉 [(https://www.figma.com/design/sR5DV4TtSVZIOq0BXa0f7x/Centotours?node-id=0-1&t=auBKvbnsMOb7VfEn-1)]
 
 ---
 
@@ -43,9 +42,7 @@ Conceptual redesign focusing on travel and transport services.
 **The Challenge:** Designing a seamless ticket booking experience for Mobile and Web.
 * **Process:** Created low-fidelity wireframes for the Login/Authentication system followed by high-fidelity polished screens.
 * **Deliverables:** User flows, interactive prototypes, and UI component library.
-👉 [[Link to Figma Design](#)](https://www.figma.com/design/DoYCOsTyOVhbNz6vXjIs4Z/Untitled?t=FGBE7zT4I531OuLl-0)]
-[https://www.figma.com/design/fPB3qoaElcG9iUyxlKCs6i/Desktop?node-id=0-1&p=f&t=Zt5XEsJkexCxWtcf-0]
-
+👉[ https://www.figma.com/design/kmUiJGYWRHLK9y7kWOgiVE/Drive-in-cinema-Analiza-i-dizajn-softvera?node-id=0-1&t=MCP6xvqngK6viaHW-1]
 
 ## 🔑 Login & Authentication System Case Study
 **Project:** "Beep Away" Mobile Application
@@ -64,7 +61,7 @@ This project demonstrates my ability to plan user flows using low-fidelity wiref
 * **Comprehensive Sign-up:** Multi-field validation for secure account creation.
 * **Verification Flows:** Clear feedback loops (success messages and email verification prompts).
 
-👉 [https://www.figma.com/design/dcCZ0DBTgfu7H3auMfFRKU/Untitled?node-id=0-1&p=f&t=NkGzinaYUm5KjU2v-0]
+👉 [https://www.figma.com/design/dcCZ0DBTgfu7H3auMfFRKU/Untitled?node-id=0-1&t=3cPdJhe9TgXJXvtE-1]
 ---
 
 ## 🛠 Skills & Tools
